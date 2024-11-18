@@ -1,5 +1,9 @@
 # Portable Thonny IDE with py5 and some other libraries pre-installed
 
+## Support my work!
+
+[Donate any value](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724)
+
 ## For Windows 64-bit
 
 ### 2024-11-17
