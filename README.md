@@ -4,7 +4,9 @@
 
 [Donate any value](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724)
 
-## For Windows 64-bit
+## Bundles for Windows 64-bit
+
+**Note:** Do not keep the Thonny portable folder in a path containing non-ASCII characters (i.e. `C:\\Users\alê\Thonny-416-portable\`). Unfortunately, the *jpype 1.5.1* release that should fix this issue doesn't seem to be working.  
 
 ### 2024-11-17
 
