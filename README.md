@@ -4,7 +4,7 @@
 
 [Donate any value](https://www.paypal.com/donate/?hosted_button_id=5B4MZ78C9J724)
 
-## Bundles for Windows 64-bit
+## Thonny for Windows 64-bit
 
 **Notes:** 
 
