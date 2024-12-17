@@ -10,7 +10,7 @@
 
 - The "Manage packages" and "Manage plug-ins" panels broke on Thonny 4.1.6 and earlier versions due to recent changes in Python's PyPI infrastructure, but now Thonny 4.1.7 fixes these issues.
 
-- Do not keep the Thonny portable folder in a path containing non-ASCII characters (i.e. `C:\\Users\alê\Thonny-416-portable\`). Unfortunately, the *jpype 1.5.1* release that should fix this issue doesn't seem to be working.  
+- Do not keep the Thonny portable folder in a path containing non-ASCII characters (i.e. `C:\\Users\alê\Thonny-417-with-py5-portable\`). Unfortunately, the *jpype 1.5.1* release that should fix this issue doesn't seem to be working.  
 
 ### 2024-12-17
 
