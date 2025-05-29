@@ -13,10 +13,11 @@
  
 ### 2025-05-28
 
-[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-05-28/thonny-417-with-py5-windows-portable.zip) Portable `Thonny 4.1.7` + with pre-installed:
+[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-05-28/thonny-417-with-py5-windows-portable.zip) Portable `Thonny 4.1.7` + with pre-installed py5:
 
 ```
-  py5 0.10.6a0 
+  py5 0.10.6a0
+  jpype 1.5.2
   numpy 2.1.3
   shapely 2.0.6
   trimesh 4.5.2
