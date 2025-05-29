@@ -13,7 +13,7 @@
  
 ### 2025-05-28
 
-[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2024-05-28/thonny-417-with-py5-windows-portable.zip) Portable `Thonny 4.1.7` + with pre-installed py5:
+[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-05-28/thonny-417-with-py5-windows-portable.zip) Portable `Thonny 4.1.7` + with pre-installed py5:
 
 ```
   py5 0.10.6a0
