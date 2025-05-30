@@ -7,7 +7,7 @@
 ## Thonny for Windows 64-bit
 
 **Notes:** 
-
+- This includes the wonderful new helper [to install Processing community libraries](https://py5coding.org/how_tos/use_processing_libraries.html)!
 - The "Manage packages" and "Manage plug-ins" panels broke on Thonny 4.1.6 and earlier versions due to recent changes in Python's PyPI infrastructure, but now Thonny 4.1.7 fixes these issues.
 - Previous versions of the Thonny portable would break in a path containing non-ASCII characters (i.e. `C:\\Users\alê\Thonny-417-with-py5-portable\`). In theory the *jpype 1.5.2* release should fix that!
  
