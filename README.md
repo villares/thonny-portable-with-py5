@@ -13,7 +13,7 @@
  
 ### 2025-06-11
 
-[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r2.zip) Portable `Thonny 4.1.7` + with pre-installed py5:
+[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-06-11/thonny-417-with-py5-0106a0-portable-r3.zip) Portable `Thonny 4.1.7` + with pre-installed py5:
 
 ```
   py5 0.10.6a0
@@ -24,4 +24,4 @@
   pymunk 6.9.0
   scipy 1.14.1
 ```
-> Note: I think I botched the previous release with an outdated py5 version, sorry!
+> Note: I think I botched the previous releases with an outdated py5 version, sorry!
