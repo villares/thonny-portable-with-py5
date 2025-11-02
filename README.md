@@ -6,8 +6,8 @@
 
 ## Thonny for Windows 64-bit
 
-### 2025-10-28
-[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-10-28/thonny-4.1.7-windows-portable-py5-a107-050rc5.zip)
+### 2025-10-28 Experimental
+[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-10-28/thonny-4.1.7-windows-portable-py5-a107-050rc5.zip) (Probably broken! If it doesn't work for you get the 2025-06-11 release!)
  Portable `Thonny 4.1.7` + with pre-installed py5:
 
 ```
