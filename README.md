@@ -1,7 +1,7 @@
----  
+<!---  
 redirect_to:  
   - https://abav.lugaralgum.com/como-instalar-py5
----
+--->
 
 
 # Portable Thonny IDE with py5 and some other libraries pre-installed
