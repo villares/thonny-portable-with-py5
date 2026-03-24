@@ -3,7 +3,6 @@ redirect_to:
   - https://abav.lugaralgum.com/como-instalar-py5
 --->
 
-
 # Portable Thonny IDE with py5 and some other libraries pre-installed
 
 ## Support my work!
@@ -12,13 +11,16 @@ redirect_to:
 
 ## Thonny for Windows 64-bit
 
-### 2025-10-28 Experimental
-[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2025-10-28/thonny-4.1.7-windows-portable-py5-a107-050rc5.zip) (Probably broken! If it doesn't work for you get the 2025-06-11 release!)
- Portable `Thonny 4.1.7` + with pre-installed py5:
+### 2026-03-28 Experimental
 
+[download](https://github.com/villares/thonny-portable-with-py5/releases/download/2026-03-24/thonny-417-with-py5-01010a0-portable-r5.zip) 
+
+If it doesn't work for you get the 2025-06-11 release!
+
+Portable `Thonny 4.1.7` + with pre-installed py5:
 ```
-  py5 0.10.7a0
-  jpype 1.5.2 forced by downgrade
+  py5 0.10.10a0
+  jpype 1.6.0
   thonny-py5mode 0.5.0rc5 (slightly modified)
 ```
 
