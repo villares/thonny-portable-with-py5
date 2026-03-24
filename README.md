@@ -11,7 +11,7 @@ redirect_to:
 
 ## Thonny for Windows 64-bit
 
-### 2026-03-28 Experimental
+### 2026-03-24 Experimental
 
 [download](https://github.com/villares/thonny-portable-with-py5/releases/download/2026-03-24/thonny-417-with-py5-01010a0-portable-r5.zip) 
 
